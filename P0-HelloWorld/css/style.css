@@ -17,6 +17,28 @@ html {
   line-height: 1.4;
 }
 
+body {
+  background-color: #303a39;
+  font-size: 15px;
+  font-weight: bold;
+  top: 10%;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+}
+
+p {
+  color: #05bdf8;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: AppleGothic;
+}
+
+img {
+  margin-top: 20px;
+}
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
